@@ -1,46 +1,56 @@
-## Hi there 👋
 
-<!--Hi, I'm Yashshri Alhat 👋
+<h1 align="center">🔐 YASHSHRI ALHAT</h1>
+<h3 align="center">Cybersecurity Enthusiast | Computer Engineering Student</h3>
 
-💻 Second-Year Computer Engineering Student
-🔐 Aspiring Cybersecurity Professional
-🚀 Passionate about Technology, Coding & Security
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF00&center=true&vCenter=true&width=500&lines=Aspiring+Cybersecurity+Professional;Learning+Ethical+Hacking;Building+%26+Securing+Projects" />
+</p>
 
-👩‍💻 About Me
+---
 
-- 🎓 Pursuing Computer Engineering
-- 🔒 Interested in Cybersecurity & Ethical Hacking
-- 🌱 Currently learning Java, Python & C
-- 🌐 Exploring Web Development
-- 💡 Building projects and learning new technologies
+## 💻 About Me
 
-🛠️ Tech Stack
+```bash
+Name: Yashshri Alhat
+Education: Second-Year Computer Engineering
+Focus: Cybersecurity & Ethical Hacking
+Learning: Python | Java | C | Networking
+Goal: Become a Cybersecurity Professional
+```
 
-- Languages: C | Java | Python
-- Web: HTML | CSS
-- Interests: Cybersecurity | Ethical Hacking | Networking
+## 🛠️ Tech Stack
 
-🎯 Goals
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,github,linux" />
+</p>
 
-- Become a Cybersecurity Professional
-- Build impactful projects
-- Continuously learn and grow
+## 🔐 Cybersecurity Interests
 
-📫 Connect With Me
+- Ethical Hacking
+- Network Security
+- Web Security
+- Security Fundamentals
+- Vulnerability Assessment
 
-- GitHub: "Yashshri Alhat" (https://github.com/Yashshrialhat-hub)
+## 🚀 Currently Working On
 
-✨ Learning today, securing tomorrow.
-**yashshrialhat-hub/Yashshrialhat-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Strengthening Programming Skills
+- Learning Cybersecurity Fundamentals
+- Building Projects
+- Exploring Security Tools
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yashshrialhat-hub&show_icons=true&theme=chartreuse-dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashshrialhat-hub&theme=chartreuse-dark"/>
+</p>
+
+---
+
+<p align="center">
+  <code>Learning to defend. Building to secure. 🔒</code>
+</p>
